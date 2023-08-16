@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f233e3b4-9dc9-4986-be48-d8809679387d" name="Changes" comment="IntelliJ IDEA" />
+    <list default="true" id="f233e3b4-9dc9-4986-be48-d8809679387d" name="Changes" comment="Abstract Factory design pattern">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2U2mscijiZ2WxqQUA2dsRieYX2w" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,13 +55,31 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.design.patterns.factory.Main">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.design.patterns.abstractFactory.concreteFactory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.design.patterns.abstractFactory.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.design.patterns.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.design.patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.design.patterns.abstractFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.design.patterns.abstractFactory.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design.patterns.abstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.design.patterns.abstractFactory.Main" />
         <item itemvalue="Application.com.design.patterns.factory.Main" />
         <item itemvalue="Application.com.design.patterns.singleton.Main" />
         <item itemvalue="Application.Main" />
@@ -156,7 +179,39 @@
       <option name="project" value="LOCAL" />
       <updated>1692151609208</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="IntelliJ IDEA">
+      <option name="closed" value="true" />
+      <created>1692151759808</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692151759808</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Singleton design pattern">
+      <option name="closed" value="true" />
+      <created>1692151770527</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692151770527</updated>
+    </task>
+    <task id="LOCAL-00009" summary="IntelliJ IDEA">
+      <option name="closed" value="true" />
+      <created>1692151806560</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692151806560</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Abstract Factory design pattern">
+      <option name="closed" value="true" />
+      <created>1692154588260</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692154588260</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,18 +239,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <MESSAGE value="Singleton design pattern" />
     <MESSAGE value="Factory design pattern" />
+    <MESSAGE value="Singleton design pattern" />
     <MESSAGE value="IntelliJ IDEA" />
-    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ IDEA" />
+    <MESSAGE value="Abstract Factory design pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract Factory design pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/design/patterns/factory/creator/Store.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/design/patterns/abstractFactory/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
