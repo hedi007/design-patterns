@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f233e3b4-9dc9-4986-be48-d8809679387d" name="Changes" comment="Abstract Factory design pattern">
+    <list default="true" id="f233e3b4-9dc9-4986-be48-d8809679387d" name="Changes" comment="IntelliJ IDEA">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/abstractFactory/concreteProducts/DellGpu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/abstractFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/abstractFactory/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/design/patterns/abstractFactory/concreteFactory/DellManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/design/patterns/abstractFactory/concreteFactory/DellManufacturer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +27,10 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -36,9 +39,9 @@
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2U2mscijiZ2WxqQUA2dsRieYX2w" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,16 +50,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.design.patterns.abstractFactory.concreteProducts" />
       <recent name="com.design.patterns.abstractFactory.concreteFactory" />
     </key>
   </component>
@@ -211,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692154588260</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="IntelliJ IDEA">
+      <option name="closed" value="true" />
+      <created>1692154785402</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692154785402</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,9 +253,9 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Factory design pattern" />
     <MESSAGE value="Singleton design pattern" />
-    <MESSAGE value="IntelliJ IDEA" />
     <MESSAGE value="Abstract Factory design pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Factory design pattern" />
+    <MESSAGE value="IntelliJ IDEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ IDEA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
