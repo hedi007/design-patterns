@@ -26,7 +26,11 @@ public class Main {
         asusMonitor.assemble();
 
         Company dell = new DellManufacturer();
+
         Monitor dellMonitor = dell.createMonitor();
         dellMonitor.assemble();
+
+        Gpu dellGpu = dell.createGpu();
+        dellGpu.assemble();
     }
 }
